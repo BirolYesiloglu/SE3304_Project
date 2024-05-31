@@ -2,7 +2,7 @@
 
 Video: 
 
-TR| https://youtu.be/SxboxnV6uXI ( In English version I have also added to login form the roles.)
+TR| https://youtu.be/SxboxnV6uXI ( In English version I have also added to login form the user roles.)
 
 
 EN| https://youtu.be/RC_a1ozBzRE
